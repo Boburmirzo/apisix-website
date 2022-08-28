@@ -3,6 +3,7 @@
     "Community": [
       "join",
       "events",
+      "heroes",
       {
         "type": "category",
         "label": "Contribute to APISIX",

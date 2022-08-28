@@ -106,6 +106,11 @@ module.exports = [
         label: 'Events',
         target: '_parent',
       },
+      {
+        to: '/docs/general/heroes',
+        label: 'Heroes',
+        target: '_parent',
+      },
     ],
   },
   {
